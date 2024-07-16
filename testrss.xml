@@ -1,0 +1,16 @@
+
+<xml version="1.0" encoding="UTF-8">
+<rss version="2.0">
+
+<channel>
+  <title>My Rss</title>
+  <link>test</link>
+  <description>testing rss</description>
+  <item>
+    <title>First Rss</title>
+    <link>Testing</link>
+    <description>my First post</description>
+  </item>
+</channel>
+
+</rss> 
