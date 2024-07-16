@@ -3,12 +3,12 @@
 
 <channel>
   <title>My Rss Feed</title>
-  <link></link>
+  <link>https://dynomitewaffle.github.io/Site/testrss.xml</link>
   <description>IDK</description>
 
   <item>
     <title>First Post</title>
-    <link></link>
+    <link>https://dynomitewaffle.github.io/Site/testrss.xml</link>
     <description>Testing RSS</description>
   </item>
 </channel>
