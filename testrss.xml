@@ -6,8 +6,12 @@
   <link>https://dynomitewaffle.github.io/Site/testrss.xml</link>
   <description>IDK</description>
     <item>
+    <title>Third</title>
+    <link>https://dynomitewaffle.github.io/Site</link>
+    <description>Checking if notification works </description>
+    </item>
     <title>Seccond</title>
-    <link>https://dynomitewaffle.github.io/Site/testrss.xm</link>
+    <link>https://dynomitewaffle.github.io/Site/testrss.xml</link>
     <description>With Link</description>
     </item>
 
