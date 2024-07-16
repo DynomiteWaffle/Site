@@ -10,6 +10,8 @@
     <link>https://dynomitewaffle.github.io/Site</link>
     <description>Checking if notification works </description>
     </item>
+
+    <item>
     <title>Seccond</title>
     <link>https://dynomitewaffle.github.io/Site/testrss.xml</link>
     <description>With Link</description>
