@@ -1,0 +1,26 @@
+/* black background */
+/* white text */
+/* green links */
+ @font-face {
+     font-family: "nasinnanpa";
+     src: url("https://raw.githubusercontent.com/ETBCOR/nasin-nanpa/n4.0.1/versions/nasin-nanpa-4.0.1-UCSUR.otf")
+ }
+ body {
+     font-family: nasinnanpa;
+     background-color: black;
+     font-size: 1.5em;
+     line-height: 0;
+    }
+    
+    h4 {
+        color: white;
+        white-space: pre;
+    }
+    
+    a {
+        color: rgb(0, 255, 0);
+        text-decoration: none;
+ }
+ .inline{
+    display: inline;
+ }
